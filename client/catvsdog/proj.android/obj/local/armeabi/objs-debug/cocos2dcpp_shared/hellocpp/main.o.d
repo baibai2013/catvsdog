@@ -19,6 +19,7 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/stdint.h \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/sys/_types.h \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
  /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
@@ -278,6 +279,8 @@ jni/../../Classes/AppDelegate.h:
 /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
 /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
 
 /Applications/androidsoft/android-ndk-r9c/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
 
